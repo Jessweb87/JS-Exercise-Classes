@@ -47,5 +47,5 @@ You will be running your tests in one terminal and debugging in the other. As yo
 There are stretch goals found throughout `index.js`. Complete these after you have all of your tests passing for MVP!
 
 ## Submission format
-
+.
 Please submit your project via codegrade by following [these instructions](https://www.notion.so/lambdaschool/Submitting-an-assignment-via-Code-Grade-A-Step-by-Step-Walkthrough-07bd65f5f8364e709ecb5064735ce374)
